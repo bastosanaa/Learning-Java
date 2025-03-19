@@ -1,0 +1,4 @@
+# Ignorar arquivos gerados pelo IntelliJ e pelo compilador Java
+.idea/
+out/
+*.class
